@@ -1,7 +1,7 @@
 # HelloWorld
 ## Beschreibung
 Diese App zeigt Dir den spannenden Text "Hello World" an! <br/>
-![Screenshot](/images/Screenshot.png)
+<img src="images/Screenshot.png" width="30%">
 ## Anforderungen
   - Android Smartphone
   - Android Emulator
